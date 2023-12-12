@@ -33,7 +33,7 @@ Buat destionation
 
 ![Alt text](image-5.png)
 
-Buat connection dan lakukan syncronize
+Buat connection dan lakukan synchronize
 
 ![Alt text](image-6.png)
 
